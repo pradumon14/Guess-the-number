@@ -6,7 +6,7 @@ MAX_GUESSES = 5
 MAX_NUMBER = 10
 
 # Print an introduction to the game
-print("Welcome to the guessing game!")
+print("Welcome to the guess the number game!")
 print("I'm thinking of a number between 1 and %d. You have %d guesses to guess what it is." % (MAX_NUMBER, MAX_GUESSES))
 
 # Generate a random number for the player to guess
